@@ -5,6 +5,22 @@
 			"style": {
 				"navigationBarTitleText": "uni-app"
 			}
+		},
+		{
+			"path" : "pages/homepage/homepage",
+			"style" : 
+			{
+				"navigationBarTitleText" : "我的",
+				"enablePullDownRefresh" : false
+			}
+		},
+		{
+			"path" : "pages/firstPage/firstPage",
+			"style" : 
+			{
+				"navigationBarTitleText" : "首页",
+				"enablePullDownRefresh" : false
+			}
 		}
 	],
 	"globalStyle": {
